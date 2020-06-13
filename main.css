@@ -1,9 +1,9 @@
 :root{
---maincolor: #3dd3a4;
+--maincolor: #b03dd3;
 --bordercl: gray;
 --callouctcolor: dodgerblue;
 --hovercolor: var(--maincolor);
---darkMaincolor: #91e4d2;
+--darkMaincolor: #ce91e4;
 --sel: #444;
 }
 html {
