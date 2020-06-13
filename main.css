@@ -1,7 +1,7 @@
 :root{
 --maincolor: #b03dd3;
 --bordercl: gray;
---callouctcolor: dodgerblue;
+--callouctcolor: #ff1eff;
 --hovercolor: var(--maincolor);
 --darkMaincolor: #ce91e4;
 --sel: #444;
