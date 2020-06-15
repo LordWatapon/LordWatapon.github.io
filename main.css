@@ -8,7 +8,7 @@
 }
 html {
   color: #232333;
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Merriweather Sans', sans-serif;
   font-size: 15px;
   line-height: 1.6em;
 }
@@ -26,7 +26,7 @@ body{
 }
 
 p {
-  font-family: 'Roboto Mono', sans-serif;
+  font-family: 'Merriweather Sans', sans-serif;
   line-height: 1.5;
 }
 
@@ -233,7 +233,7 @@ input {
     width: 95%;
     background: #f9f2f4;
     color: #9e9e9e;
-    font: 22px "Roboto Mono", Courier, monospace;
+    font: 22px "Merriweather Sans", Courier, sans-serif;
     font-weight: bold;
     line-height: 2em;
     box-shadow: none;
